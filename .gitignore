@@ -1,2 +1,5 @@
 # remove archives
 *.zip
+
+#remove IDE files
+**/.idea/**
