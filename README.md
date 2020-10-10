@@ -2,4 +2,6 @@
 project info
 
 ignoring files:
-- archives
+- archives (.zip)
+
+description for new commit in fix branch
